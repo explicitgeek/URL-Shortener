@@ -1,4 +1,4 @@
-const apiKey = '02e82a1ae46342c29b2d55e42a7c516a'
+const apiKey = ''
 const url = 'https://api.rebrandly.com/v1/links';
 
 const inputField = document.querySelector('#input');
